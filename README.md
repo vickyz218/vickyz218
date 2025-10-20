@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vicky </h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vickyz218&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 - 🌱 I’m currently exploring **GenAI, LLM models**
-
 - 💼 I’m looking for **full time software engineering roles**
-
+- 🚀 Passionate about Full-Stack Development, Sysyem and AI
 - 📫 How to reach me: **vzhang218@gmail.com**
 
 ---
