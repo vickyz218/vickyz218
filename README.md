@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently exploring **GenAI, LLM models**
 - 💼 I’m looking for **full time software engineering roles**
-- 🚀 Passionate about Full-Stack Development, Sysyem and AI
+- 🚀 Passionate about Full-Stack Development, System and AI
 - 📫 How to reach me: **vzhang218@gmail.com**
 
 ---
